@@ -1,0 +1,26 @@
+.table-responsive {
+    display: block;
+     width: 100%;
+     overflow-x: auto;
+     -webkit-overflow-scrolling: touch;
+     -ms-overflow-style: -ms-autohiding-scrollbar;
+ }
+
+.button-area
+{
+    background-color: white;
+}
+
+.card
+{
+    border: 1px solid white;
+}
+
+.tbl-title
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    color: #19766b;
+}

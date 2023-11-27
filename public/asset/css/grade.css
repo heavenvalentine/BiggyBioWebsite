@@ -1,0 +1,133 @@
+.btn-class
+{
+    background: #ffff;
+    border: 1px solid #737373;
+    color: #737373;
+    border-radius: 10px;
+    font-weight: bold;
+}
+
+.title-mats
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 15px;
+    color: #263238;
+}
+
+button:active{
+    background:olive;
+}
+
+button:focus{
+    background:olive;
+}
+
+.card
+{
+    border: 0px!important;
+}
+
+.card-img-top
+{
+    border: 1px solid #eaeaea!important;
+}
+
+.classes
+{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.btn-outline-secondary
+{
+    --bs-btn-hover-bg: #bec5cb!important;
+}
+
+.card-title
+{
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    color: #737373;
+    font-size: 11.5px;
+}
+
+.mats-link
+{
+    text-decoration: none;
+}
+
+.btn
+{
+    font-size: 11.5px!important;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.vid-desc
+{
+    height: 210px;
+    color: #263238;
+    border-bottom: 2px solid #737373;
+    border-radius: 2px;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    text-align: justify;
+}
+
+.next
+{
+    color: #263238;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.title-note
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 40px;
+    color: #263238;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.desc-note
+{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 19px;
+    color: #263238;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.subtitle-note
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 20px;
+    color: #263238;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.top-area
+{
+    background-color: white;
+
+}
+
+.article-area
+{
+    background: white;
+}
+

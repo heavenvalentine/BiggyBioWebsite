@@ -1,0 +1,192 @@
+
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    /* background-size: auto 100%; */
+
+    }
+
+    /* @media (min-width: 1025px) {
+    .h-custom-2 {
+
+    }
+    } */
+
+    .right-column
+    {
+        background: #EEF4DB;
+        position: relative;
+        overflow: hidden;
+        background-repeat: no-repeat;
+        background-position: right center;
+        /* background-size: 300px 100px; */
+        background-size: cover;
+        background-attachment: fixed;
+        top: 0;
+        left: 0;
+        bottom: 0;
+        height: 100vh;
+        /* border: 1px solid #000; */
+    }
+
+    .form-register
+    {
+        margin-top: -65px;
+        width: 390px;
+        font-family: 'Nunito Sans', sans-serif;
+        margin-left: 33px;
+    }
+
+    .welcome-sq
+    {
+        /* border: 1px solid #000; */
+        font-family: 'Nunito Sans', sans-serif;
+        font-size: 12.9px;
+        margin-left: 30px;
+        /* padding-bottom: 0px; */
+        /* margin-top: 90px; */
+        /* margin-bottom: 90px; */
+        width: 500px;
+        color: #19766b;
+        font-weight:600;
+        left: 90%;
+        margin-top: -10px;
+        margin-left: 105px;
+    }
+
+    .btn-register
+    {
+            /* height: 20px; */
+            border-top-width: 20px;
+            /* border-top-left-radius: 70px;
+            border-top-right-radius: 70px;
+            border-bottom-left-radius: 70px; */
+            border-radius: 6px;
+            background-color: #f0c845;
+            border: solid transparent;
+            color: white;
+            font-size: 15px;
+            padding-right: 15px;
+            padding-left: 15px;
+            margin-bottom: 11px;
+            margin-left: 10px;
+            font-family: 'Courier Prime', monospace;
+            font-family: 'Nunito', sans-serif;
+            font-family: 'Nunito Sans', sans-serif;
+            font-family: 'PT Sans Caption', sans-serif;
+            /* margin-top: -12px; */
+            text-decoration: none;
+            width: 364px;
+            height: 34px;
+
+
+    }
+
+    .terms, .conditions
+    {
+        color: #19766b;
+        text-decoration: none;
+        font-weight: 600;
+    }
+
+    .img-reg-1
+    {
+        margin-left: 220px;
+        margin-top: 120px;
+    }
+
+    .content-quotes1
+    {
+        font-family: 'Courier Prime', monospace;
+        font-family: 'Nunito', sans-serif;
+        font-family: 'Nunito Sans', sans-serif;
+        font-family: 'PT Sans Caption', sans-serif;
+        color: white;
+    }
+
+    .h5-1
+    {
+        font-family: 'Courier Prime', monospace;
+        font-family: 'Nunito', sans-serif;
+        font-family: 'Nunito Sans', sans-serif;
+        font-family: 'PT Sans Caption', sans-serif;
+        color: #263238;
+        font-size: 15px;
+        font-weight: 600;
+        /* margin-top: 290px; */
+        /* align-items: center;
+        display: inline;
+        padding: .25em 0;
+        background: #FFC107;
+        color: #ffffff;
+        box-shadow: .5em 0 0 #FFC107, -.5em 0 0 #FFC107; */
+        /* position: relative; */
+    }
+
+    .p-1
+    {
+        font-family: 'Courier Prime', monospace;
+        font-family: 'Nunito', sans-serif;
+        color: #263238;
+        font-size: 12px;
+        margin-top: -3px;
+        /* font-weight: 200; */
+        /* margin-top: 290px; */
+        align-items: center;
+    }
+
+    .form-login, .form-register
+    {
+        margin-top: -80px;
+        width: 390px;
+        font-family: 'Nunito Sans', sans-serif;
+        margin-left: 33px;
+    }
+
+    .password-div
+    {
+        margin-top: -12px;
+    }
+
+    .form-check
+    {
+        margin-top: 6px;
+    }
+
+    .form-div
+    {
+        margin-left: 20px;
+    }
+
+    .forgot-div
+    {
+        margin-left: 114px;
+        width: 200px;
+        margin-top: -72px;
+    }
+
+    .login
+    {
+        margin-top: 8px;
+    }
+
+    .have-acc
+    {
+        margin-top: 2opx;
+    }
+
+
+
+
+    .carousel-indicators li {
+        background-color: #999;
+        background-color: rgba(70, 70, 70, 0.25);
+      }
+
+      .carousel-indicators .active {
+        background-color: #444;
+      }
+

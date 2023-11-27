@@ -1,0 +1,32 @@
+
+
+.article-area
+{
+    background-color: white;
+    /* color: red; */
+}
+/* .title-note
+{
+    color: red;
+} */
+
+/* .container
+{
+    border: 1px solid #000;
+} */
+
+.note
+{
+    background: white;
+}
+
+.note
+{
+    /* box-shadow: 0 4px 8px 0 rgba(72, 71, 71, 0.2), 0 6px 20px 0 rgba(59, 57, 57, 0.19); */
+    border-radius: 5px;
+}
+
+.title-note
+{
+    font-size: 40px;
+}

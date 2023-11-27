@@ -1,0 +1,64 @@
+.title
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 40px;
+    color: #263238;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.card
+{
+    border: 0px!important;
+}
+
+.desc
+{
+    font-family: 'Nunito', sans-serif;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 16px;
+    color: #263238;
+    background-color: white;
+    border-radius: 10px;
+}
+
+.sub1
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 25px;
+    color: #263238;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.sub2
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 20px;
+    color: #263238;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: 600;
+}
+
+.article-area
+{
+    background: white;
+}
+
+.top-area
+{
+    background-color: white;
+}
+
+table, th, td {
+    border:1px solid black;
+  }

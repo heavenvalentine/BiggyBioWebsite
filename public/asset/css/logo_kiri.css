@@ -1,0 +1,23 @@
+/* NAVBAR */
+.navbar
+{
+    font-family: 'Courier Prime', monospace;
+    font-family: 'Nunito', sans-serif;
+    font-family: 'PT Sans Caption', sans-serif;
+    font-size: 17px;
+    border-bottom-left-radius: 45px;
+    border-bottom-right-radius: 45px;
+    background-color: transparent;
+    margin-top: 0px;
+    color: transparent;
+    position: absolute;
+    z-index: -1;
+
+}
+
+
+.container-fluid
+{
+    height: 60px;
+}
+

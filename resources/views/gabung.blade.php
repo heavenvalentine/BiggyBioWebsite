@@ -1,0 +1,5 @@
+@extends('layout.NavLogged-layout')
+@section('title', 'Programs')
+@section('content')
+@extends('posts.programs')
+@extends('carousels.carousel')
